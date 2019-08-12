@@ -5,7 +5,7 @@ spring:
     username: answear
     password: 123456
     url: jdbc:mysql://localhost:3306/answear?useUnicode=true&characterEncoding=utf8
-    driver-class-name: com.mysql.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
 mybatis:
   config-location: classpath:mybatis-config.xml
   mapper-locations: classpath:mapper/*.xml
