@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.airbat.web.mapper.TSysUserMapper">
+  <resultMap id="BaseResultMap" type="com.airbat.web.dto.TSysUser">
+    <id column="f_id" jdbcType="VARCHAR" property="f_id" />
+    <result column="f_login_name" jdbcType="VARCHAR" property="f_login_name" />
+    <result column="f_login_name" jdbcType="VARCHAR" property="f_passwd" />
+    <result column="f_login_name" jdbcType="VARCHAR" property="f_name" />
+    <result column="f_create_date" jdbcType="TIMESTAMP" property="f_create_date" />
+    <result column="f_login_name" jdbcType="VARCHAR" property="f_login_name" />
+  </resultMap>
+  <select id="list" resultMap="BaseResultMap">
+    select * from t_sys_user
+  </select>
+</mapper>

@@ -1,0 +1,13 @@
+server:
+  port: 8000
+spring:
+  datasource:
+    username: answear
+    password: 123456
+    url: jdbc:mysql://localhost:3306/answear?useUnicode=true&characterEncoding=utf8
+    driver-class-name: com.mysql.jdbc.Driver
+mybatis:
+  config-location: classpath:mybatis-config.xml
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.airbat.web.dto
+
