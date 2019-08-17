@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Springboot-easy/Springboot-easy.iml" filepath="$PROJECT_DIR$/Springboot-easy/Springboot-easy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot-kafka/Springboot-kafka.iml" filepath="$PROJECT_DIR$/Springboot-kafka/Springboot-kafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springboot-mybatis/Springboot-mybatis.iml" filepath="$PROJECT_DIR$/Springboot-mybatis/Springboot-mybatis.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/airspingboot.iml" filepath="$PROJECT_DIR$/.idea/airspingboot.iml" />
     </modules>
