@@ -1,10 +1,10 @@
 # airspingboot
 springboot 与其他框架的整合集合
 
-##springboot-easy
+## springboot-easy
 springboot 最简单的demo
 
-##springboot-mybatis
+## springboot-mybatis
 springboot 整合mybatis
 
 ## config
