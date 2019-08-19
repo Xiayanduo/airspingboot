@@ -17,7 +17,6 @@
       <list>
         <option value="$PROJECT_DIR$/Springboot-mybatis/pom.xml" />
         <option value="$PROJECT_DIR$/Springboot-easy/pom.xml" />
-        <option value="$PROJECT_DIR$/Springboot-kafka/pom.xml" />
       </list>
     </option>
   </component>
