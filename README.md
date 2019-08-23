@@ -4,6 +4,9 @@ springboot 与其他框架的整合集合
 ## springboot-easy
 springboot 最简单的demo
 
+## springboot-kafka
+springboot 整合kafka
+
 ## springboot-mybatis
 springboot 整合mybatis
 
